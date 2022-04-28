@@ -1,0 +1,17 @@
+model_name: finetune
+
+dataset: WikiText103
+data_dir: 
+train_batch_size: 256
+val_batch_size: 256
+shuffle: True
+
+optimizer: Adam
+learning_rate: 0.025
+epochs: 25
+embed_size_1: 300
+embed_size_2: 15
+dropout: 0.2
+
+
+model_dir: 
