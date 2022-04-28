@@ -9,6 +9,7 @@ We use PyTorch to implement the original version of Word2Vec .We only consider C
 - torch-1.11.0
 - torchtext-0.12.0
 - web-0.0.1
+- nltk-3.6.5
   
 The structure of our projects is as follows.
 - cbow: implementations of CBOW.
