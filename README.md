@@ -8,7 +8,7 @@ We also provide some evaluation tools and a brief report.
 We use PyTorch to implement the original version of Word2Vec .We only consider CBOW here. The required environments are as follows.
 - torch-1.11.0
 - torchtext-0.12.0
-- web-
+- web-0.0.1
   
 The structure of our projects is as follows.
 - cbow: implementations of CBOW.
