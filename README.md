@@ -1,6 +1,6 @@
 # Word2Vec-from-scratch
 
-PyTorch implementations of the Continuous Bags of Words (CBOW) model  - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) and an improved version. We borrowed some codes from this well-organized post about Word2Vec model. [Word2vec with PyTorch: Reproducing Original Paper](https://notrocketscience.blog/word2vec-with-pytorch-implementing-original-paper/).
+PyTorch implementations of the Continuous Bags of Words (CBOW) model  - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) and an improved version. We borrowed some codes from this well-organized post about Word2Vec model - [Word2vec with PyTorch: Reproducing Original Paper](https://notrocketscience.blog/word2vec-with-pytorch-implementing-original-paper/).
 
 We also provide some evaluation tools and a brief report.
 
